@@ -1,0 +1,17 @@
+{
+  "portfolio_bt": "\uD83D\uDCC1  Portfolio  \uD83D\uDCC1",
+  "about_us_bt": "\uD83D\uDC81\u200D  About us",
+  "contact_us_bt": "Contact with us  \uD83D\uDCDE",
+  "services_bt": "\uD83D\uDEE0\uFE0F  Services",
+  "about_us_text": "\uD83D\uDC8E <b>BeerBots - a team of 4 experienced developers specializing in the development of software products using JavaScript, TypeScript, and Python.</b>\n\n    \uD83D\uDE80 <i>We are passionately dedicated to our work and strive to create quality and innovative solutions for our clients. We have deep knowledge and experience in programming with these languages.\n\n    \uD83D\uDC68\u200D\uD83D\uDCBB We take pride in our ability to solve complex tasks, learn new technologies, and apply cutting-edge development practices. We constantly strive for self-improvement and staying up-to-date with the latest trends in our field.</i>",
+  "services_text": "\uD83E\uDD16 <b>Bots:</b> We create bots for various platforms such as Telegram and Discord.\n\n     ✅ <b>Checkers:</b> We develop checkers to automatically check various data, such as account or product checkers.\n\n     \uD83D\uDD0D <b>Parsers:</b> We create parsers to extract data from websites or APIs.\n\n     ⚙\uFE0F <b>Automation:</b> We help automate processes in your company to increase work efficiency.\n\n     \uD83D\uDD11 <b>Regers:</b> We develop regers that help you create and manage accounts.\n\n     \uD83D\uDCBB <b>Web3 scripts:</b> We create scripts for working with Web3, including the development of decentralized applications, blockchains and smart contracts.\n\n     \uD83C\uDF10 <b>Websites:</b> We create custom websites using modern frameworks and technologies.\n\n     \uD83D\uDD10 <b>Bruters:</b> We develop bruters to check the security of passwords or accounts.\n\n     \uD83D\uDD04 <b>API:</b> We create and integrate APIs for data exchange between different applications.",
+  "select_project_text": "\uD83D\uDC8E <b>Select a project to view:</b>",
+  "not_active_projects_text": "No active projects found \uD83D\uDD12",
+  "faq_text": "\uD83D\uDD0D <b>Answers to frequently asked questions:</b>\n    \n     \uD83D\uDD3B <b>Do we provide a guarantee?</b>\n     <code>- Yes, the guarantee is valid for 30 days from the moment of launching the project.</code>\n    \n     \uD83D\uDD3B <b>What is the minimum order price?</b>\n     <code>- Pricing policy starts at $75.</code>\n    \n     \uD83D\uDD3B <b>Do we accept payment in the form of cryptocurrency?</b>\n     <code>- Yes, any stablecoins.</code>\n    \n     \uD83D\uDD3B <b>Do we work through a guarantor?</b>\n     <code>- Yes.</code>\n    \n     \uD83D\uDD3B <b>What are the deadlines for order fulfillment?</b>\n     <code>- The terms depend on the complexity of the project, but on average it is 1 to 7 days.</code>\n    \n     \uD83D\uDD3B <b>Do we write in languages other than JS/TS/PY?</b>\n     <code>- In most cases, these languages are sufficient for any services we provide. In rare cases, we can use GO/Solidity.</code>",
+   "project_name": "Project",
+   "project_description": "Description",
+   "project_link": "Link",
+   "go_to_project": "Go to project",
+   "project_launch_date": "Launch date",
+   "cancel_action": "« Back"
+}

@@ -1,0 +1,1 @@
+from .locales import Localization

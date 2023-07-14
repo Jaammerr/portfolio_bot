@@ -1,0 +1,6 @@
+aiogram~=2.25.1
+aiohttp
+python-dotenv~=1.0.0
+
+googletrans~=3.0.0
+tortoise~=0.1.1
